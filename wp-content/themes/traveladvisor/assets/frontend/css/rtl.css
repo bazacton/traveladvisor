@@ -1,0 +1,324 @@
+body{direction: rtl;}
+.rtl [class*="col-lg"], .rtl [class*="col-md"], .rtl [class*="col-sm"] {margin: 0 0 0 -4px;}
+.rtl.wp-traveladvisor .page-sidebar ~ .page-content, .rtl.wp-traveladvisor .section-sidebar ~ .section-content { margin-left: 0;width: 70%;margin-right:30px;}
+/*Header*/
+.rtl .cs-logo{float:right;}
+.rtl .slicknav_btn{float:left;}
+.rtl .cs-menu-slide{float:right;padding:20px 8px 0 0;}
+.rtl .cs-main-nav{width:100%;}
+.rtl .cs-search-area .search-area form{right:auto;left:-10px;}
+.rtl .cs-search-area .search-area .input-holder label{right:auto;left:0;}
+.rtl .cs-search-area .search-area .input-holder > i{left:auto;right:10px;}
+.rtl .cs-search-area .search-area .input-holder input[type="text"] {padding-left: 65px;padding-right: 34px;}
+.rtl .cs-search-area .search-area form:before{left:18px;right:auto;}
+.rtl .main-navigation ul ul{left:auto;right:0;}
+.rtl .main-navigation li:hover > ul, rtl .main-navigation li.focus > ul{left:auto;right:0;}
+.rtl .main-navigation ul ul:before{right:30px;left:auto;}
+.rtl .main-navigation ul li.menu-item-has-children:after{right:auto;left:8px;}
+/*Header*/
+/*banner*/
+.rtl .cs-services .cs-text.left, .rtl .cs-element-title.left, .rtl .cs-page-title.left, .rtl .element-heading.left {text-align: right;}
+/*banner*/
+/*Footer CSS*/
+.rtl .cs-footer-widgets ul li a:before {right: -5px;left:auto;transform: scale(-1);}
+.rtl .cs-footer-widgets ul li a:hover {padding-right: 17px;padding-left: 0px;}
+.rtl .cs-shop-card ul{float: left;}
+/*Call to Action Home*/
+.rtl.wp-traveladvisor .cs-main-search ul .chosen-container-single .chosen-single div{width: 100%}
+.rtl.wp-traveladvisor .cs-main-search ul .select-dropdown .chosen-container-single .chosen-single div b:after{left:7px;right:auto;}
+.rtl.wp-traveladvisor .cs-main-search ul .select-dropdown i{right:10px; left: auto;}
+.rtl.wp-traveladvisor .cs-main-search ul .search-input input[type="text"],.rtl.wp-traveladvisor .cs-main-search ul .select-dropdown input[type="text"], .rtl.wp-traveladvisor .cs-main-search ul .search-input input[type="text"] {padding-right: 30px;}
+.rtl.wp-traveladvisor .cs-main-search ul .select-dropdown em{left: 10px;right: auto;}
+.rtl.wp-traveladvisor .cs-main-search ul .select-dropdown .chosen-container-single .chosen-single span{padding: 5px 30px 0 0;}
+.rtl .chosen-container-single .chosen-single span{margin-left: 26px;margin-right: 0px}
+.rtl.wp-traveladvisor .cs-main-search ul .search-input i{right: 10px;left: auto;}
+.rtl.wp-traveladvisor .destination-fancy .cs-text{left:auto;right: 40px;}
+.rtl.wp-traveladvisor .destination-fancy .cs-media figure figcaption{padding: 20px 20px 0 0;}
+.rtl.wp-traveladvisor .destination-fancy .cs-trips span{padding-left: 10px;margin-left: 10px;padding-right: 0;margin-right: 0;border-left:1px solid rgba(255, 255, 255, 0.3);border-right: none;}
+.rtl.wp-traveladvisor .destination-fancy .over-preview .cs-photo-list li {float: right;padding-left: 5px;padding-right:0} 
+.rtl.wp-traveladvisor .cs-list.grid .cs-media .cs-off-price{left: 14px;right: auto}
+.rtl .cs-blog.fancy .blog-author figure {float: right;margin-left: 10px;}
+.rtl .cs-blog.fancy .blog-fancy-detail h3 a{padding-left:40px;padding-right: 0;}
+.rtl .cs-blog.fancy .blog-fancy-detail .btn-fwd{float: left; margin-left: 30px; }
+.rtl .cs-blog.fancy .blog-fancy-detail ul{float: right;list-style: none;}
+.rtl .cs-blog.fancy .blog-fancy-detail .btn-fwd{transform: scale(-1);}
+.rtl .cs-blog.fancy {border-left: 1px solid #ebebea;border-right: none;}
+.rtl .cs-blog.fancy .blog-fancy-detail ul li i{margin-right: 0px; margin-left: 10px; padding: 0px 1px 0 3px;}
+.rtl .cs-blog.fancy .blog-fancy-detail ul li:before {right: -13px;left:auto;}
+.rtl .cs-blog.fancy .blog-fancy-detail ul li{margin-left: 20px; margin-right: 0px;}
+/*Home*/
+/*contact us*/
+.rtl .contact-info ul li .contact-icon{float: right;}
+.rtl .contact-info ul li .contact-label {padding-left: 0px;padding-right: 32px;}
+.rtl .cs-contact-form .form-holder .input-holder i {right: 10px;left: 0}
+.rtl .cs-contact-form .form-holder .input-holder input, .rtl .form-holder .input-holder textarea {padding-right: 35px;}
+/*contact us*/
+/*Widgets and Chosen*/
+.rtl .chosen-container .chosen-drop{left:auto; right:-9999px;}
+.rtl .chosen-container-active.chosen-with-drop .chosen-drop{right:0;left:auto;}
+.rtl .widget-categories li a{padding-left:0;padding-right:13px;margin-left:5px;margin-right:0;display:inline-block;}
+.rtl .widget-categories li i{display:inline-block;transform:scaleX(-1)}
+.rtl .widget-destination-deals .cs-media, .rtl .widget-hotel-resorts .cs-media, .rtl .widget-recent-blog .cs-media, .rtl .widget-service .cs-media{margin-right:0;margin-left:20px;}
+.rtl .widget-recent-blog .cs-media{float:right;}
+.rtl .widget-hotel-resorts .cs-check-btn i{transform:scaleX(-1);margin-left:0;margin-right:8px;}
+.rtl .widget-faq a:after{left:18px;right:auto;transform:scaleX(-1); }
+.rtl .nav-widget ul li{padding-left:0;padding-right:20px;}
+.rtl .nav-widget ul li a i{float:left;}
+.rtl .nav-widget ul li:after{left:auto;right:-8px;}
+.rtl .nav-widget ul li:before{left:auto;right: 7px;}
+.rtl .nav-widget ul li a:before{left:auto;right:-23px;}
+.rtl .cs-form .input-holder input[type="submit"] {right:auto;left: 0;border-radius: 5px 0 0 5px;}
+.rtl table > thead > tr > th, .rtl table > tbody > tr > th, .rtl table > tfoot > tr > th, .rtl table > thead > tr > td, .rtl table > tbody > tr > td, .rtl table > tfoot > tr > td{padding-left:0;padding-right:0;text-align:center;}
+.rtl .widget_search .input-holder input[type="submit"]{left:0;right:auto;}
+.rtl .widget_search .input-holder i{left:auto;right:12px;}
+.rtl .widget_nav_menu li ul.sub-menu{margin:0 30px 0 0;}
+.rtl .widget_archive ul li a:hover, 
+.rtl .widget_categories ul li a:hover, 
+.rtl .widget_pages ul li a:hover, 
+.rtl .widget_meta ul li a:hover, 
+.rtl .widget_nav_menu ul li a:hover{padding-left:0;padding-right:17px;}
+.rtl .widget-news-letter .cs-form .input-holder input[type="text"], .rtl .widget-news-letter .cs-form .input-holder input[type="search"] {padding: 0 10px 0 130px;}
+.rtl .widget_nav_menu ul li a:before {right: -5px;left: auto;transform: scale(-1);}
+.rtl .widget-recent-blog .post-date i{margin-left:8px;margin-right:0;}
+.rtl .widget.widget-search form input[type='text']{padding-left: 30px}
+.rtl .widget_search .input-holder input[type="search"]{padding:10px 40px 10px 80px;}
+.rtl.wp-traveladvisor .page-sidebar .cs-listing-filters .cs-search .cs-field label{left:6px;right: auto}
+.rtl.wp-traveladvisor .page-sidebar .cs-listing-filters .cs-filter-title:after{right: 18px;left: auto}
+.rtl.wp-traveladvisor .page-sidebar .cs-listing-filters .panel-group .panel-heading a:after{left: 14px;right: auto;}
+.rtl.wp-traveladvisor .page-sidebar .cs-listing-filters ul.cs-checkbox-list li label:before{right: 0;left:auto;}
+.rtl.wp-traveladvisor .page-sidebar .cs-listing-filters ul.cs-checkbox-list li label{padding-left: 0;padding-right: 27px;}
+/*Widgets and Chosen*/
+/*Shop*/
+.rtl.wp-traveladvisor.woocommerce .page-sidebar ~ .page-content {margin-left: -4px;}
+.rtl.woocommerce .products .star-rating, .rtl .woocommerce .products .star-rating {right: 50%;left:auto;margin: 0 -48px 8px 0;}
+.rtl.woocommerce.widget_top_rated_products li img, .rtl.woocommerce.widget_products li img, .rtl .woocommerce.widget_top_rated_products li img, .rtl .woocommerce.widget_products li img{float:right;margin:0 0 0 20px;}
+.rtl.woocommerce .star-rating:before, .rtl.woocommerce .star-rating span, .rtl.woocommerce .star-rating span:before, .rtl .woocommerce .star-rating:before, .rtl .woocommerce .star-rating span, .rtl .woocommerce .star-rating span:before{left:auto;right:0;} 
+.rtl .widget_product_categories li:before{left:auto;right:0;transform:scaleX(-1);}
+.rtl .widget_product_categories li{padding:0 20px 0 0;}
+.rtl .widget_shopping_cart li a img{margin-left:10px;}
+/*Shop*/
+/*CART*/
+.rtl.woocommerce .coupon, .rtl .woocommerce .coupon{float: right}
+.rtl.woocommerce .coupon label, .rtl .woocommerce .coupon label{float: right}
+.rtl.woocommerce .coupon .input-text, .rtl .woocommerce .coupon .input-text{padding: 10px 12px;} 
+.rtl.woocommerce form table.shop_table input.button[type="submit"], .rtl .woocommerce form table.shop_table input.button[type="submit"] {float: right}
+.rtl.woocommerce form table.shop_table input.button.update-cart[type="submit"], .rtl .woocommerce form table.shop_table input.button.update-cart[type="submit"]{right: 10px; left:auto;}
+.rtl.woocommerce .cart-collaterals,.rtl .woocommerce .cart-collaterals{float: left;}
+.rtl.woocommerce .cart-collaterals table.shop_table td, .rtl .woocommerce .cart-collaterals table.shop_table td{text-align: left;}
+.rtl.woocommerce .cart-collaterals table.shop_table th:first-child,.rtl .woocommerce .cart-collaterals table.shop_table th:first-child{text-align: right}
+.rtl .widget_search .input-holder input[type="search"]{padding:10px 40px 10px 80px;}
+/*Cherck out*/
+.rtl.woocommerce form .form-row.form-row-first,.rtl .woocommerce form .form-row.form-row-first {margin-left: 30px;margin-right: auto;}
+.rtl.woocommerce form .form-row.create-account label:before, .rtl .woocommerce form .form-row.create-account label:before{right: 0;left: auto;}
+.rtl.woocommerce form .form-row.create-account label, .rtl .woocommerce form .form-row.create-account label{padding-left: 0;padding-right: 25px;}
+.rtl.woocommerce table.woocommerce-checkout-review-order-table tbody tr td:first-child, .rtl .woocommerce table.woocommerce-checkout-review-order-table tbody tr td:first-child,.rtl.woocommerce table.woocommerce-checkout-review-order-table tfoot tr th:first-child,rtl .woocommerce table.woocommerce-checkout-review-order-table tfoot tr th:first-child{text-align: right}
+.rtl.woocommerce table.woocommerce-checkout-review-order-table tbody tr td, .rtl .woocommerce table.woocommerce-checkout-review-order-table tbody tr td,.rtl.woocommerce table.woocommerce-checkout-review-order-table thead tr th, .rtl .woocommerce table.woocommerce-checkout-review-order-table thead tr th,.rtl.woocommerce table.woocommerce-checkout-review-order-table tfoot tr td , .rtl .woocommerce table.woocommerce-checkout-review-order-table tfoot tr td  {text-align: left}
+.rtl .woocommerce form .form-row label input[type="checkbox"]{float: right; margin: -2px 0 0 5px;}
+.rtl .woocommerce form .form-row input.button{margin: 0 0 0 10px;}
+/*product detail page*/
+.rtl.single-product div.product .image {margin-left: 30px;margin-right: 0;float: right;}
+.rtl.single-product div.product .entry-summary .star-rating, .rtl.single-product div.product .entry-summary em,.rtl.single-product div.product .entry-summary h2, .rtl .woocommerce #reviews #comments ol.commentlist li img, .rtl.woocommerce #reviews #comments ol.commentlist li img, .rtl.woocommerce.single-product #reviews #comments ol.commentlist li .comment-text p.meta {float: right;}
+.rtl .woocommerce.single-product div.product .stock_wrapper:before, 
+.rtl.woocommerce.single-product div.product .stock_wrapper:before{right: 2px;left:auto;padding: 0 0 0 20px;}
+.rtl .woocommerce.single-product div.product form.cart div.quantity, .rtl.woocommerce.single-product div.product form.cart div.quantity {margin: 0 0 0 10px;float: right;}
+.rtl.woocommerce #reviews #comments ol.commentlist li .comment-text, .rtl .woocommerce #reviews #comments ol.commentlist li .comment-text{margin: 0 90px 0 0px;}
+.rtl.woocommerce.single-product .comment-text .star-rating, .rtl .woocommerce.single-product .comment-text .star-rating{ margin: 0 8px 0 0;}
+.rtl .woocommerce.single-product #review_form #respond p.stars, .rtl.woocommerce.single-product #review_form #respond p.stars, .rtl .woocommerce.single-product div.product .stock_wrapper{margin: 0 20px 0 0;}
+/*Blog pages */
+.rtl .widget.widget-search form label{ left:10px;right: auto}
+.rtl .breadcrumbs.left{ text-align:right;}
+.rtl .pagination > li{ float:right;}
+.rtl.wp-traveladvisor .pagination > li:last-child a i{  transform: scale(-1);}
+.rtl .cs-blog.blog-medium .cs-media{   float: right; margin-left: 30px; margin-right:0;}
+.rtl .cs-blog .cs-readmore-btn i{float: right; line-height:20px; margin-left:7px;margin-right: 0;}
+.rtl .cs-page-title.right{ text-align: right;}
+.rtl .cs-comments ul li .cs-text .cs-replay-btn{ float:left}
+.rtl .cs-share-post h6{margin: 0 0 0 15px;}
+.rtl .cs-tags ul li{margin-left: -4px; margin-right: 0;}
+/*BLOG DETAIL*/
+.rtl .content-area{ float:none; margin:0 auto;}
+.rtl blockquote{ border-right:2px solid;border-left: none;padding: 30px 75px 30px 0;}
+.rtl blockquote p::before{right: -40px;}
+.rtl .cs-prvnext-post .cs-prv-post { border-left: 1px solid #f2f2f1;border-right: none}
+.rtl .cs-prvnext-post .cs-prv-post i{ margin-left:20px;transform: scaleX(-1);margin-right: 0;left:auto;right:0;}
+.rtl .cs-prvnext-post .cs-next-post i{transform: scaleX(-1); margin-left:0; margin-right:20px;right:auto;left:0;}
+.rtl .cs-prvnext-post .cs-prv-post .cs-text{padding: 0 30px 0 0;}
+.rtl .cs-prvnext-post .cs-next-post .cs-text{padding: 0 0 0 30px;}
+.rtl .cs-comments ul li .cs-media {  float: right; margin-left: 30px;margin-right: 0;}
+.rtl .cs-comments ul li .cs-text .cs-replay-btn i{transform: scale(-1);margin-right: 0; margin-left: 5px;}
+.rtl .cs-blog-detail .cs-contact-form form .input-holder label ~ i {right: 15px;}
+.rtl .cs-blog-detail .cs-contact-form form .input-holder input[type="text"]{  padding-right: 35px;}
+.rtl .cs-contact-form form .input-holder textarea{  padding-right: 35px;}
+.rtl .input-button .cs-button{ margin:0;}
+.rtl.wp-traveladvisor .pagination > li:last-child a i {margin-right: 8px;}
+.rtl .cs-comments .children {padding-right: 98px;padding-left: 0}
+.rtl .cs-blog .post-option span::before{ right:0;}
+.rtl .cs-blog .post-option span:first-child {padding-left:8px;padding-right: 8px;}
+/*BLOG DETAIL*/
+/* shortcode  start*/
+/*.rtl .left {text-align: right;}*/
+.rtl .breadcrumbs ul li{padding-left: 20px; padding-right: 0;}
+.rtl .breadcrumbs ul li::after{left: auto; right: -18px; top: 0px; transform: scalex(-1);}
+.rtl .breadcrumbs ul li a i {display: inline-block; text-align: right}
+.rtl .nav-tabs > li {float: right;}
+.rtl .nav.nav-tabs {margin-right: -5px;}
+.rtl .cs-tabs .nav-tabs li a i { display: inline-block; margin: 0 0 0 10px; text-align: right;}
+.rtl .cs-tabs .tab-content li::before{right: 0; left: auto; top: 2px; transform: scale(-1);}
+.rtl .cs-tabs .tab-content li{padding: 0 20px 0 0;}
+.rtl .cs-tabs.vertical .nav-tabs li a i{right: 12px; left: auto;}
+.rtl .cs-separator::before{right: 0; left: auto;}
+.rtl .cs-pricetable a i{display: inline-block; margin: -2px 0 0 5px; text-align: right;}
+.rtl .cs-shortcode-accordion.box .panel-group .panel .panel-heading .panel-title a:before{left: 15px; right: auto;}
+.rtl .cs-shortcode-accordion.box .panel-group .panel .panel-heading .panel-title a.collapsed:before{left: 15px; right: auto;}
+.rtl .cs-button{margin: 0 0 15px 15px;}
+.rtl .cs-button i {display: inline-block; margin: 0 0 0 8px; text-align: right;}
+.rtl .cs-shortcode-table table thead tr th:first-child {border-left: 0 none; border-right: 1px solid rgb(226, 226, 226); padding-left: 0; padding-right: 20px; text-align: right;}
+.rtl .cs-shortcode-table table tbody tr td:first-child {padding-left: 0; padding-right: 20px; text-align: right;}
+.rtl .top-footer .btn-to-top{float: left;}
+.rtl .top-footer .cs-social-media ul li{margin: 0 0 0 39px;}
+.rtl .top-footer ul{margin: 0;}
+.rtl footer#footer .cs-copyright .cs-logo{margin-right: 0;margin-left: 35px;}
+.rtl .cs-shop-card ul li:first-child {margin: 0 0 0 4px;}
+.rtl .cs-shop-card ul li:last-child{margin:0 }
+.rtl.wp-traveladvisor .draggable{direction: ltr;}
+.rtl .cs-progressbar .skillbar-bar{float: right; margin: 0 0 0 19px;}
+/* shortcode  end */
+/* about-us start */
+.rtl .cs-column-text .cs-list-with-icons i, .cs-list-with-icons li i{display: inline-block; padding-left: 10px; padding-right: 0; text-align: right;}
+.rtl .cs-column-text .cs-list-with-icons, .cs-list-with-icons{margin-right: 0;}
+.rtl .cs-team.grid .social-media{margin-right: 0;}
+.rtl .cs-team.classic.right .cs-text {text-align: right;    padding: 40px 40px 40px 0px;}
+.rtl .cs-team.classic .cs-text {padding: 40px 0 40px 40px;}
+.rtl .cs-team.classic .cs-media {float: right; margin-left: 40px; margin-right: 0;}
+.rtl .cs-team.classic.right .cs-media {float: left; margin: 0 40px 0 0;}
+.rtl .cs-team.classic .cs-text .social-media li{margin-left: 10px; margin-right: 0;}
+/* about-us end */
+/*gallery start */
+.rtl.wp-traveladvisor .cs-gallery.grid .cs-media figcaption span{right: 20px; left: auto;}
+/*gallery end */
+/* 404 start */
+.rtl .cs-error-content .input-holder i{right: 20px; left: auto;}
+.rtl .cs-error-content .input-holder input[type="text"]{padding: 0 45px 0 0;}
+.rtl .cs-error-content .input-holder input[type="submit"]{border-radius: 5px 0 0 5px; right: auto; left: 0;}
+/* 404 end */
+/* faqs start */
+.rtl .panel-group .panel .panel-heading .panel-title a.collapsed:before{left:auto; right: 17px; transform: scale(-1); -webkit-transform: scale(-1);-moz-transform: scale(-1);-ms-transform: scale(-1);-o-transform: scale(-1);}
+.rtl .panel-group .panel .panel-heading .panel-title a:before{right: 17px; left: auto;}
+/* faqs end */
+/* search-result start*/
+.rtl .cs-search-post .cs-media {float: right; margin-left: 30px; margin-right: 0;}
+/* search-result end*/
+/* no-search-result start*/
+.rtl .cs-form a {display: inline-block; text-align: left;}
+.rtl .cs-form .input-holder i{right: 20px; left: auto;}
+.rtl .cs-form .input-holder input[type="search"]{padding: 0 45px 0 0;}
+.rtl .cs-form .input-holder input[type="submit"]{left: 0; right: auto; border-radius: 5px 0 0 5px;}
+.rtl .cs-seggetions ul li:after{right: -4px; left: auto; transform: scale(-1);}
+.rtl .cs-seggetions ul li{padding: 0 21px 0 0;}
+/* no-search-result end*/
+/* pf-under-construction start*/
+.rtl .cs-construction{direction: ltr;}
+.rtl .cs-construction .input-holder i{right: 20px; left: auto;}
+.rtl .cs-construction .input-holder input[type="submit"]{border-radius: 5px 0 0 5px; left: 0; right: auto;}
+.rtl .cs-construction .cs-social-media ul li{padding: 0 0 0 15px;}
+.rtl .cs-construction .input-holder input[type="text"]{padding: 0 45px 0 0;text-align: right;}
+/* pf-under-construction end*/
+/* tour-grid start */
+.rtl.wp-traveladvisor .cs-list-short {display: inline-block; text-align: right; padding: 11px 10px;}
+.rtl.wp-traveladvisor .cs-list-short strong{float: right; padding: 0 0 0 10px;}
+.rtl.wp-traveladvisor ul.cs-listing-short-by li{margin: 0 0 0 16px;}
+/* tour-grid end */
+/* tour-listing start */
+.rtl.wp-traveladvisor .cs-list.classic .cs-media{float: right;}
+.rtl.wp-traveladvisor .cs-list.classic .cs-media .cs-off-price{right: 20px; left: auto;}
+.rtl.wp-traveladvisor .cs-list.classic .cs-text .cs-heading-section .cs-price-box{float: left;}
+.rtl.wp-traveladvisor .cs-list.classic .cs-text .cs-heading-section .cs-price-box em{float: right; margin: 0 -15px 20px 0;}
+.rtl.wp-traveladvisor .cs-list.classic .cs-text .cs-heading-section .cs-post-title{float: right; padding: 0 0 0 10px;}
+.rtl.wp-traveladvisor .cs-list.classic .cs-text .cs-heading-section .cs-post-title ul li:after{right: -18px; left: auto;}
+.rtl.wp-traveladvisor .cs-list.classic .cs-text .cs-heading-section .cs-post-title ul li{margin: 0 13px 0 0;}
+.rtl.wp-traveladvisor .cs-list.classic .cs-text ul.cs-listing-option li{margin: 0 0 0 4px;}
+.rtl.wp-traveladvisor .cs-list.classic .cs-countnumber{right: 313px; left: auto;}
+.rtl.wp-traveladvisor .cs-list.classic .cs-media ul.cs-list-slider-thumb{right: 20px; left: auto;}
+.rtl.wp-traveladvisor .cs-list.classic .cs-media ul.cs-list-slider-thumb li{margin: 0 0 0 5px;}
+/*tour-listing end */
+/*destination detail*/
+.rtl.single-trip ul.cs-detail-next-post li{margin:0 0 0 -4px;} 
+.rtl.single-trip ul.cs-detail-next-post:after{left:auto;right:0;}
+.rtl.single-trip ul.cs-detail-next-post li .cs-date-post:after{left:auto;right:16px;}
+.rtl.single-trip ul.cs-detail-next-post li:nth-child(1):after{display:none;}
+.rtl.single-trip ul.cs-detail-next-post li:nth-child(2):after{width:0;left:auto;right:-150px}
+.rtl.single-trip ul.cs-detail-next-post li:nth-child(3):after{width:0;left:auto;right:-325px;}
+.rtl.single-trip ul.cs-detail-next-post li:nth-child(4):after{width:0;left:auto;right:-500px;}
+.rtl.single-trip ul.cs-detail-next-post li:nth-child(5):after{width:0;left:auto;right:-674px;}
+.rtl.single-trip ul.cs-detail-next-post li:nth-child(6):after{width:0;left:auto;right:-840px}
+.rtl.single-trip ul.cs-detail-next-post li:nth-child(7):after{width:0;left:auto;right:-1020px;}
+.rtl.single-trip ul.cs-detail-next-post li:nth-child(8):after{width:0;left:auto;right:-1190px;}
+.rtl.single-trip ul.cs-detail-next-post li:nth-child(2):hover:after{width:175px;left:auto;right:-150px;}
+.rtl.single-trip ul.cs-detail-next-post li:nth-child(3):hover:after{width:350px;left:auto;right:-325px;}
+.rtl.single-trip ul.cs-detail-next-post li:nth-child(4):hover:after{width:525px;left:auto;right:-500px;}
+.rtl.single-trip ul.cs-detail-next-post li:nth-child(5):hover:after{width:695px;left:auto;right:-674px;}
+.rtl.single-trip ul.cs-detail-next-post li:nth-child(6):hover:after{width:865px;left:auto;right:-840px;}
+.rtl.single-trip ul.cs-detail-next-post li:nth-child(7):hover:after{width:1045px;left:auto;right:-1020px;}
+.rtl.single-trip ul.cs-detail-next-post li:nth-child(8):hover:after{width:1215px;left:auto;right:-1190px;}
+.rtl.single-trip .cs-tour-category i{float:right;margin:0 0 0 20px;}
+.rtl.wp-traveladvisor .cs-search-field i{left:10px;right:auto;}
+.rtl.wp-traveladvisor .cs-select-fields .chosen-container-single .chosen-single div b:after{left:4px;right:auto;}
+.rtl .chosen-container-single .chosen-single div{left:0;right:auto;}
+.rtl.single-trip ul.cs-trip-list li i{margin:-3px 0 0 10px;}
+.rtl.single-trip .maps #map{left:auto;right:-20%;}
+.rtl.single-trip .maps .cs-map-holder #btn-show{left:auto;right:-23px;}
+.rtl.single-trip .maps .cs-map-holder #btn-show i{left:auto;right:-3px;}
+.rtl.wp-traveladvisor .cs-list-short-fixed ul.cs-list-highlights:after{left:auto;right:100%;}
+.rtl .panel-group .panel .panel-heading .panel-title{padding-right:10px;padding-left:0;}
+.rtl .panel-group .panel .panel-heading .panel-title a{padding-right:5px;padding-left:0;}
+.rtl.single-trip .maps .cs-time-schedule.cs-map-detail-hide {left: -49.6%;right: auto;} 
+.rtl.single-trip .maps.maps-full map, .rtl.single-trip .maps.maps-full #map {right: 0;left: auto;}
+/*destination detail*/
+/*destination listing*/
+.rtl.cs-footer-widgets .widget-news-letter .cs-form .input-holder input{padding:16px 19px 13px;}
+.rtl.wp-traveladvisor .cs-destination-listing .cs-media{margin-left: 30px; margin-right: 0px;}
+.rtl.woocommerce.single-product div.product .stock_wrapper{padding: 0 20px 0 0;}
+.rtl.wp-traveladvisor .cs-destination-listing .cs-price strong{display: inline-block;}
+.rtl.wp-traveladvisor .destination-box .cs-text .cs-price, .rtl .destination-grid .cs-text .cs-price{float: left;}
+.rtl .widget-service .cs-media, .rtl.wp-traveladvisor .cs-interest-listing .cs-media{float: right;}
+.rtl.wp-traveladvisor .cs-interest-listing .cs-media{ margin-right: 0px; margin-left: 30px; }
+.rtl.wp-traveladvisor .cs-destination-slider button{right: auto; left: 0px;}
+.rtl.wp-traveladvisor .cs-destination-slider .slick-prev{right: auto; left: 55px;}
+.rtl.wp-traveladvisor .cs-destination-slider .slick-next{right: auto; left: 14px;}
+.rtl .cs-destination-slider .cs-destination-listing.destination-grid .cs-media{margin:0px;}
+.rtl.wp-traveladvisor .cs-destination-slider .slick-prev{right: auto; left: 14px;}
+.rtl.wp-traveladvisor .cs-destination-slider .slick-next{right: auto; left: 55px;}
+/*.rtl.wp-traveladvisor .cs-destination-listing .cs-location-sec h3, .rtl.wp-traveladvisor .cs-destination-listing .cs-location-sec h4, 
+.rtl.wp-traveladvisor .cs-destination-listing .cs-location-sec h3, .rtl.wp-traveladvisor .cs-destination-listing .cs-location-sec h5, 
+.rtl.wptraveladvisor .cs-destination-listing .cs-location-sec h6{float: right;}*/
+.rtl .cs-tabs .nav-tabs li.active a:before{left: -2px; right: auto;}
+.rtl .cs-tabs.vertical .nav-tabs li.active a:before{left: -2px; right: auto;}
+.rtl .vertical.cs-tabs .nav-tabs li a {margin: 0 0 0 3px;}
+.rtl.wp-traveladvisor .cs-destination-listing .cs-location-sec h3 span, .rtl.wp-traveladvisor .destination-box .cs-text h6 span, 
+.rtl.wp-traveladvisor .cs-destination-listing .cs-location-sec h6 span, .rtl.wp-traveladvisor .cs-destination-listing .cs-location-sec h4 span{display: inline-block;}
+.rtl.wp-traveladvisor .destination-fancy .cs-location-sec span{display: inline-block; width: 100%;}
+.rtl .mobile-menu .input-group .form-control {padding-right: 10px;}
+.rtl.wp-traveladvisor .page-sidebar .cs-listing-filters ul.cs-checkbox-list li input[type="radio"]:checked + label:after{left:auto;right: -1px;}
+.rtl.wp-traveladvisor ul.cs-listing-categories li {margin: 0 0 0 4px;}
+.rtl.single-trip .cs-list-detail .cs-testimonial .author-detail .cs-media figure{float: right; margin-left: 15px; margin-right: 0px;}
+.rtl.single-trip .cs-list-detail .cs-testimonial .author-detail .cs-media strong{text-align: right;}
+.rtl .question-mark{text-align: right;}
+.rtl .cs-progressbar .skillbar{margin:0 0 0 19px;}
+.rtl ul.products {margin: 0 -30px 0 0;}
+.rtl .top-footer .cs-social-media ul li a i{display:inline-block; margin-left:5px;}
+.rtl.wp-traveladvisor .destination-box .cs-text h4,
+.rtl.wp-traveladvisor .destination-box .cs-text h6, 
+.rtl.wp-traveladvisor .destination-box .cs-text h3,
+.rtl.wp-traveladvisor .destination-grid .cs-location-sec h3, 
+.rtl.wp-traveladvisor .destination-grid .cs-location-sec h4, 
+.rtl.wp-traveladvisor .destination-grid .cs-location-sec h3, 
+.rtl.wp-traveladvisor .destination-grid .cs-location-sec h5, 
+.rtl.wp-traveladvisor .destination-grid .cs-location-sec h6{float: right;}
+.rtl.wp-traveladvisor .page-sidebar .cs-listing-filters ul.cs-checkbox-list li input[type="checkbox"]:checked + label:after{right:-1px;left:auto}
+.rtl .radio label, .rtl .checkbox label{padding-left: 0px; padding-right: 27px;}
+.rtl .checkbox label i{position: absolute; right: 1px; top: 5px;}
+.rtl .widget .gallery-list > li {margin:0 0 1px 1px;}
+.rtl .cs-team-directors .cs-media{display: inline-block;}
+.rtl .cs-prvnext-post .cs-prv-post .cs-text{padding: 0 20px 0 0;}
+.rtl .cs-prvnext-post .cs-next-post .cs-text{padding: 0 0 0 20px;}
+.rtl #mobile-menu .widget-hotel-resorts .cs-media, .rtl #mobile-menu .widget-destination-deals .cs-media{margin-right: 0;margin-left:18px;}

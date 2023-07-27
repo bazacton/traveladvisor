@@ -1,0 +1,99 @@
+
+.cs-color, .active > a, .active > a:hover, .active > a:focus, footer#footer .footer-links a, .pagination > li > a:hover, .pagination > li > a:focus, .pagination > li > a:hover i, .pagination > li > a.active,
+.widget .post-title h6:hover, .widget .post-title h6 a:hover, .widget .post-title h5:hover, .widget .post-title h5 a:hover,.widget-categories li a:hover,
+.cs-blog .post-title h3:hover, .cs-blog .post-title h3 a:hover, .cs-blog .post-title h2:hover, .cs-blog .post-title h2 a:hover, .cs-blog .post-title h4:hover, .cs-blog .post-title h4 a:hover,.cs-blog .cs-categorise a:hover, .cs-blog-detail .post-meta span a:hover,
+.cs-prvnext-post h6:hover, .cs-prvnext-post h6 a:hover, .cs-prvnext-post a:hover, .cs-interest-listing .post-title h4:hover, .cs-interest-listing .post-title h4 a:hover
+,.main-navigation ul ul li a:hover,.main-navigation ul ul > li:hover > a, .top-footer .cs-social-media ul li a:hover, .top-footer .cs-social-media ul li a:hover i,.cs-footer-widgets ul li a:before,.breadcrumbs ul li.active,header.modern .mm-toggle i,header.modern .cs-cart a i,header.modern .main-navigation > ul > li:hover > a,
+.widget-price-filter .slider.slider-horizontal .slider-tick, .widget-price-filter .slider.slider-horizontal .slider-handle, .widget-price-filter .slider-selection, .nav-widget ul li:hover i, .cs-team.classic:hover .cs-text h3 a, .cs-team-directors:hover .cs-text h6 a, .cs-blog.fancy:hover .blog-author a, 
+.cs-blog.fancy:hover .blog-fancy-detail h3 a, .cs-blog.fancy:hover .blog-fancy-detail ul li a,
+.wp-traveladvisor .cs-pagination ul.pagination li a:hover,
+.wp-traveladvisor .cs-list .cs-text .cs-heading-section .cs-post-title h3 a:hover,
+.wp-traveladvisor .page-sidebar .cs-listing-filters .panel-group .panel-heading a:after,
+.cs-error-content a,.cs-search-field span a,.cs-search-post .cs-text a,.cs-construction .cs-social-media ul li:hover a,.cs-term-condition p a , .single-trip ul.cs-detail-next-post li .cs-date-post .cs-post-thumb .cs-text h5:hover a,
+.panel-group .panel .panel-heading .panel-title a,
+.panel-group .panel .panel-heading .panel-title a:before,
+.cs-search-post .cs-text h3 a:hover, .cs-destination-listing.destination-grid .cs-text .cs-location-sec h6 a:hover, .breadcrumbs ul li a:hover, .mobile-menu .expand, .cs-prvnext-post a:hover i{
+color:#d9842f !important;
+}
+.cs-bgcolor, .chosen-container-multi .chosen-choices li.search-choice, .chosen-container .chosen-results li.highlighted, ul.cs-filtter li:hover a:after, ul.cs-filtter li a.active:after, .cs-divider-line:after, .cs-team-slider .slick-next:hover, .cs-team-slider .slick-prev:hover, #footer .footer-nav ul li a:after, .widget-categories li a:hover:before,
+.cabs-services .cs-media.top-left:after, .cs-offer-service:hover .cs-media.top-left:before, ul.cs-service-detail-list li span.cs-services-stylist a:after, ul.cs-gallery-slider button, .cs-label:before, .woocommerce-pagination li a.active, .widget-price-filter .slider-handle, .widget-price-filter .slider-selection, .cs-construction input[type="submit"], .widget-recent-posts ul li a:hover:after, .widget-archives ul li a:hover:after, .cs-column-text .cs-button, .cs-contact-form .cs-form-holder input[type="submit"], .cs-branch:before, .widget-links ul li:hover:after, .cs-services .cs-media.top-left:after, 
+ul.cs-price-list li span:after, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .pagination li.active a,
+.widget_product_search input[type="submit"]{
+background-color:#d9842f !important;
+}
+.csborder-color, .cs-team-stylish.team-grid figure.cs-effect-oscar figcaption:before, .cs-team-stylish.team-list figure.cs-effect-oscar figcaption::before, .cs-timeline ul li:hover:before,  .social-media ul li a:hover i, .social-media ul li a:hover, .cs-services .cs-media.left, .cs-offer-service .cs-media.top-left:after, .shopping-cart-btn, .cs-construction .social-media li a:hover, .cs-confirmation .cs-media i{ border-color: #d9842f !important; }
+blockquote{
+border-left-color:#d9842f !important;
+}
+.cs-main-nav {
+position: fixed !important;
+z-index: 99 !important;
+}
+body, .main-section p, .mce-content-body p {
+font:italic  14px/22px "PT Sans", sans-serif;text-transform: none;color: #0a0a0a !important;            }
+#header .logo{
+margin-top:1px;
+margin-right:3px;
+margin-bottom:2px;
+margin-left:4px;
+}
+#header .navigation > ul > li > a, #header .navigation > ul > li,.cs-copyright .copyright-text p{
+font:  11px/17px "Biryani", sans-serif !important;letter-spacing: 0px !important;text-transform: uppercase !important;color: #444444            }
+#header .navigation > ul > li.current-menu-item > a, #header .navigation > ul > li.current_page_item > a{
+color: #074d87;            }
+#header .pinned.unpinned .navigation > ul > li.current-menu-item > a, #header .pinned.unpinned .navigation > ul > li.current_page_item > a{
+color: #074d87!important;            }
+#header .navigation > ul > li ul > li > a, #header .navigation > ul > li ul > li > a{
+color: #444444 !important;            }
+#header .navigation > ul > li ul > li > a:hover, #header .navigation > ul > li ul > li > a:hover{
+color: #074d87 !important;            }
+h1, h1 a{
+font:  24px/30px "Roboto", sans-serif !important;text-transform: uppercase !important;color: #303030 !important;}
+h2, h2 a{
+font:  22px/28px "Roboto", sans-serif !important;text-transform: uppercase !important;color: #303030 !important;            }
+h3, h3 a{ 
+font:  20px/26px "Roboto", sans-serif !important;text-transform: uppercase !important;color: #303030 !important;            }
+h4, h4 a{
+font:  18px/24px "Roboto", sans-serif !important;text-transform: uppercase !important;color: #303030 !important;            }
+h5, h5 a{
+font:  16px/22px "Roboto", sans-serif !important;text-transform: uppercase !important;color: #303030 !important;            }
+h6, h6 a{
+font:  14px/20px "Roboto", sans-serif !important;text-transform: uppercase !important;color: #303030 !important;            }
+.cs-section-title h2{
+font:  22px/28px "Roboto", sans-serif !important;text-transform: uppercase !important;            }
+.cs-post-title h3 a, .cs-post-title h2 a{
+font:  18px/24px "Roboto", sans-serif !important;text-transform: uppercase !important;            }
+.cs-page-title h1{
+font:  28px/34px "Roboto", sans-serif !important;text-transform: uppercase !important;color: #333333 !important;            }
+.widget .widget-title h5{
+font:  15px/21px "Roboto", sans-serif !important;text-transform: uppercase !important;            }
+#footer .widget-title h5{ color: #8224e3 !important;}
+#footer .widget-title h5{
+font:  18px/24px "Roboto", sans-serif !important;text-transform: uppercase !important;color: #8224e3 !important;            }
+.main-navbar,#main-header .btn-style1{background:#ffffff !important;}
+.navigation, #header.dark-header {background:#ffffff !important;}
+.sub-dropdown { background-color:#ffffff !important;}
+.navigation > ul ul li > a {color:#444444 !important;}
+.navigation > ul ul li > a:hover {color:#074d87 !important;}
+.navigation > ul > li:hover > a {color:#074d87 !important;
+}
+.sub-dropdown:before {border-bottom:8px solid #074d87 !important;}
+.navigation > ul > li.parentIcon:hover > a:before { background-color:#074d87 !important; }
+.navigation > ul > li > a { color:#444444 !important; }
+.cs-user,.cs-user-login { border-color:#074d87 !important; }
+.page-sidebar .widget-title h3, .page-sidebar .widget-title h4, .page-sidebar .widget-title h5, .page-sidebar .widget-title h6{
+color:#2d2d2d !important;
+}            .section-sidebar .widget-title h3, .section-sidebar .widget-title h4, .section-sidebar .widget-title h5, .section-sidebar .widget-title h6{
+color:#2d2d2d !important;
+}
+#footer, #newslatter-sec,#newslatter-sec span,footer#footer-sec .widget ul li,footer#footer-sec .widget p, footer#footer-sec .widget_calendar tr td,footer.group,footer#footer-sec p,footer .widget_latest_post .post-options li,footer#footer-sec .widget i,.widget-form ul li i{color:#434343 !important;}
+#footer{
+background-color:#161616 !important;
+}
+#copyright p, #copyright p a{color:666666 !important;}
+.footer-content  .copyrights{
+color:666666 !important;
+}
+#footer a, #footer .footer-nav ul li a, footer .widget-form ul li input[type='submit'],footer.group .tagcloud a,footer.group .widget ul li a  {
+color:#868686 !important;
+}            #footer .cs-copyright .copyright-text p, footer#footer .footer-links a.footer#footer .footer-links {color:666666 !important;}

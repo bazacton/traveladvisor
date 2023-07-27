@@ -1,0 +1,174 @@
+.nav-widget .widget-title{border-bottom: 1px solid #e5e5e5; margin-bottom: 15px;}
+.nav-widget{border:1px solid #dadada; padding:15px 20px 20px; margin-bottom: 20px;}
+.nav-widget ul{margin: 0; padding: 0;}
+.nav-widget ul li{list-style: none; padding-left: 20px; position: relative; line-height: 20px; padding-bottom: 12px;}
+.nav-widget ul li:after{position: absolute; content: ''; top: 4px; left: -8px; border: 3px solid #dadada; border-radius: 50%; width: 13px; height: 13px; background: #fff; box-shadow:0 0 0 3px #f6f6f6; transition:all 0.3s ease-in-out 0s;}
+.nav-widget ul li:before{position: absolute; content: '...'; top: -4px; left: 7px; color: #dadada;}
+.nav-widget ul li a{text-decoration: none; font-weight: 500; font-size: 14px; outline: none; position: relative;}
+.nav-widget ul li a:before{position: absolute; content: ''; top: 16px; left: -23px; width: 3px; height: 100%; background: #e8e8e8;}
+.nav-widget ul li:last-child a:before{display: none;}
+.nav-widget ul li a i{float: right; font-size: 16px; color: #ccc; transition:all 0.3s ease-in-out 0s;}
+
+/*====================================
+    Widget Style Start
+======================================*/
+.widget a{text-decoration: none; outline: none;}
+.widget ul{padding: 0px; margin: 0px;}
+.widget ul li{list-style: none;}
+.widget{margin-bottom: 30px;}
+.widget .widget-title h4{margin-bottom: 0px;}
+.widget .widget-title{display: none; position: relative; padding-bottom: 10px; margin-bottom: 20px;}
+.widget .widget-title:before{content: ""; position: absolute; left: 0px; width: 100%; height: 7px; background:url(../images/widget-sepretor.png); bottom: 0px;}
+.widget .widget-title h4{font-size: 18px; color: #333 !important;}
+.widget .post-title h6, .widget .post-title h6 a, .widget .post-title h5, .widget .post-title h5 a{line-height: 24px !important;}
+.cs-footer-widgets .widget .widget-title:before {display: none;}
+.cs-footer-widgets .widget .widget-title {padding-bottom: 0;}
+/* Widget Search */
+.widget.widget-search form{position: relative;}
+.widget.widget-search form input[type='text']{height: 40px; border-color: #edf0f3; border-radius: 0px; font-size: 12px; color: #c3c3c3; font-weight: bold; letter-spacing: 2px;}
+.widget.widget-search form label{position: absolute; right: 0px; cursor: pointer; width: 30px; height: 40px; z-index: 1; top:0;}
+.widget.widget-search form label:before{content: "\f002"; position: absolute; left: 0px; top: 4px; font-size: 13px; color: #c3c3c3; font-family: "icomoon" !important;}
+.widget.widget-search form label input[type="submit"]{text-indent: -999px; background:none; border:none;}
+/* Widget Recent Blog */
+.widget-recent-blog ul li{list-style: none; margin-bottom: 20px;}
+.widget-recent-blog ul li:after{ clear:both; content:''; display:block;}
+.widget-recent-blog ul li:last-child{margin-bottom: 0px;}
+.widget-recent-blog .cs-media{float: left; margin-right: 20px;}
+.widget-recent-blog .cs-text{overflow: hidden;}
+.widget-recent-blog .post-date{font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: 1.5px; line-height: 20px; margin-bottom: 8px; display: block;}
+.widget-recent-blog .post-date i{display: inline-block; margin-right: 8px; font-size: 12px;}
+/* Widget Categories  */
+.widget-categories li{line-height: 26px; padding: 6px 0;}
+.widget-categories li a{padding-left: 13px; font-size: 14px; color:#303030; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; margin-right: 5px;}
+.widget_nav_menu li ul.sub-menu{ margin:0 0 0 30px;}
+.widget_archive ul,
+.widget_categories ul,
+.widget_pages ul,
+.widget_meta ul,
+.widget_nav_menu ul{margin:0;padding:0;}
+.widget_archive ul li,
+.widget_categories ul li,
+.widget_pages ul li,
+.widget_meta ul li,
+.widget_nav_menu ul li{margin:0;padding:0;display:block;line-height:26px;}
+.widget_archive ul li a,
+.widget_categories ul li a,
+.widget_pages ul li a,
+.widget_meta ul li a,
+.widget_nav_menu ul li a{display:inline-block;font-size:12px;color:#303030;position:relative;font-weight:700;text-transform:uppercase;letter-spacing:1.3px; transition: all 0.3s ease-in-out 0s;}
+.widget_nav_menu ul li a:before {content: "\e947";font-family: icomoon;position: absolute;top: 0;left: -5px;opacity: 0;visibility: hidden;font-size: 14px;transition: all 0.3s ease-in-out 0s;}
+.widget_nav_menu ul li a:hover:before{opacity:1;visibility:visible;}
+.widget_archive ul li a:hover,
+.widget_categories ul li a:hover,
+.widget_pages ul li a:hover,
+.widget_meta ul li a:hover,
+.widget_nav_menu ul li a:hover{text-decoration:none;padding-left:17px;}
+.widget_archive ul li a:before,
+.widget_categories ul li a:before,
+.widget_pages ul li a:before,
+.widget_meta ul li a:before,
+.widget_nav_menu ul li a:before{content: "\e947";font-family: icomoon;position: absolute;top: 0;left: -5px;right:15px;opacity: 0;visibility: hidden;font-size: 14px;transition: all 0.3s ease-in-out 0s;}
+.widget_archive ul li a:hover:before,
+.widget_categories ul li a:hover:before,
+.widget_pages ul li a:hover:before,
+.widget_meta ul li a:hover:before,
+.widget_nav_menu ul li a:hover:before{opacity: 1;visibility:visible;}
+
+/* Widget About Us  */
+.widget-about-us .cs-media{margin-bottom: 20px;}
+.widget-about-us .cs-media figure img{width: 100%;}
+.widget-about-us p{font-size: 14px; font-weight: 600; line-height: 24px; margin-bottom: 0px;}
+/* Widget Serveic */
+.widget-service .cs-media{float: left; margin-right: 20px;}
+.widget-service .cs-media figure img{border-radius: 100%;}
+.widget-service .cs-text h6{margin-bottom: 5px;}
+.widget-service .cs-text{overflow: hidden;}
+.widget-service p{font-size: 13px !important; line-height: 20px !important; margin-bottom: 0px;}
+.widget-service ul li{padding:20px 0 0px 0; margin-bottom: 20px; border-top:1px dotted #e3e3e3;}
+/* Widget Destination Deals */
+.widget-destination-deals ul li{padding:20px 0 0px 0; margin-bottom: 20px; border-top:1px dotted #e3e3e3;}
+.widget-destination-deals ul li:first-child, .widget-hotel-resorts ul li:first-child, .widget-service ul li:first-child{border-top:none;}
+.widget-destination-deals .cs-media{margin-right: 16px; display: inline-block; width: 20%; vertical-align: top;}
+.widget-destination-deals .cs-text{display: inline-block; vertical-align: top; width: 70%; margin-right: -4px;}
+.widget-destination-deals .cs-text h6{margin-bottom: 0px;}
+.widget-destination-deals .post-date{font-size: 13px; color: #808080; display: block; vertical-align: top; margin-bottom: 5px; line-height: 16px;}
+.widget-destination-deals .cs-price span{font-size: 20px; font-weight: 600; font-family: 'Poppins', sans-serif;}
+.widget-destination-deals .cs-price span em{font-style: normal; font-size: 14px; position: relative; top: -3px; font-weight: 600;}
+.widget-destination-deals .cs-price small{font-size: 12px; text-transform: uppercase; margin-left: 5px;}
+/* Widget Weather Style */
+.widget-weather{border:1px solid #ececec; padding: 20px;}
+.widget-weather .weather-detail{display: block; margin-bottom: 12px;}
+.widget-weather .weather-detail .cs-temperature{display: inline-block; vertical-align: middle; margin-right: -4px; padding-right: 25px; /*border-right: 1px solid #f2f4f7;*/}
+.widget-weather .weather-detail .cs-temperature em{font-size: 40px; color: #191919; font-weight: 500; font-style: normal; display: inline-block; vertical-align: middle;}
+.widget-weather .weather-detail .cs-temperature img{display: inline-block; font-size: 30px; margin-right: 15px; vertical-align: top;}
+.widget-weather .weather-detail .cs-forecast{display: inline-block; padding-left: 0; font-size: 12px; color: #bfc7d8; line-height: 16px; vertical-align: middle; text-transform: uppercase;}
+.widget-weather .weather-list{margin: 0px; padding: 0px;}
+.widget-weather .weather-list li{list-style: none; display: inline-block; vertical-align: top; width: 25%; margin-right: -4px; text-align: center;margin-bottom:10px;}
+.widget-weather .weather-list li span{display: block; font-size: 11px; text-transform: uppercase; font-weight: 400; color: #bfc7d8; line-height: 14px;}
+.widget-weather .weather-list li img{margin-bottom: 7px;}
+.widget-map .cs-map iframe{width: 100%; border:none;}
+/* Widget Hotel Resorts Style */
+.widget-hotel-resorts ul {margin: 0px; padding: 0px;}
+.widget-hotel-resorts ul li{list-style: none; padding: 20px 0 0 0; margin-bottom: 20px; border-top:1px dotted #e3e3e3;}
+.widget-hotel-resorts .cs-media{display: inline-block; vertical-align: top; margin-right: 20px; width: 20%;}
+.widget-hotel-resorts .cs-text{display: inline-block; vertical-align: top; width: 70%;}
+.widget-hotel-resorts .post-title h6, .widget-hotel-resorts .post-title h6 a{margin-bottom: 0px; line-height: 18px !important; text-transform: capitalize !important;}
+.widget-hotel-resorts .cs-price{font-size: 13px; color: #666; line-height: 16px;}
+.widget-hotel-resorts .cs-check-btn{font-size: 12px;font-weight: 400; display: block; line-height: 14px;}
+.widget-hotel-resorts .cs-check-btn i{display: inline-block; margin-left: 8px; display: inline-block; vertical-align: middle; font-size: 10px;}
+.widget_text .textwidget img{ width:100%; height:auto;}
+.widget_tag_cloud a,
+.widget_product_tag_cloud a{display: inline-block; font-size: 11px; font-weight: 500; text-transform: uppercase; color: #808080; padding: 7px 14px 6px 14px; border: 2px solid #ededed; border-radius: 20px; margin:0 2px 5px 0; line-height: 20px; letter-spacing: 1px;transition: all 0.3s ease-in-out 0s;}
+.widget_tag_cloud a:hover,
+.widget_product_tag_cloud a:hover{color: #fff;}
+.widget_search .input-holder{ position:relative;}
+.widget_search .input-holder i{ position:absolute; top:10px; left:12px;}
+.widget_search .input-holder input[type="search"]{ padding:10px 80px 10px 40px;}
+.widget_search .input-holder input[type="submit"] {border: 0 none; color: #fff; padding: 4px 10px;  position: absolute; right: 0; top: 0;}
+.widget_product_search{ position:relative;}
+.widget_product_search input[type="search"]{ padding:10px 80px 10px 10px;}
+.widget_product_search input[type="submit"] {border: 0 none; color: #fff; padding: 4px 10px;  position: absolute; right: 0; bottom: 0;}
+.widget .gallery-list > li {display: inline-block;width:23%;margin:0 1px 1px 0;}
+.widget .gallery-list > li img{width:100%;}
+.mobile-menu ul.gallery-list {display: block !important;padding-left:0;margin-bottom:20px;}
+.mobile-menu ul.gallery-list:after, .mobile-menu .widget:after {clear: both;content: "";display: block;}
+.mobile-menu ul.gallery-list li {display: inline-block !important;margin: 0;padding: 0;width: 33.333%;}
+.mobile-menu ul.gallery-list li a{padding:0;}
+.mobile-menu .widget {padding:20px 10px 0;}
+.mobile-menu .widget.widget_categories ul {display: block !important;}
+.mobile-menu .widget.widget_categories ul li a{padding:0;vertical-align:middle;}
+.mobile-menu .widget ul{display:block !important;}
+.mobile-menu .widget-recent-blog ul li .cs-media figure a, .mobile-menu .widget-recent-blog ul li .cs-text a{padding:0 !important;}
+.mobile-menu .widget-recent-blog .post-date, .mobile-menu .widget-hotel-resorts .cs-price, .mobile-menu .widget-hotel-resorts .cs-check-btn, .mobile-menu .widget-hotel-resorts .post-title h6, .mobile-menu .mobile-menu .widget-hotel-resorts .post-title h6 a, .mobile-menu .widget-categories li a{padding:0 !important;}
+.mobile-menu .widget-categories li a{display:inline-block;vertical-align:middle;}
+.mobile-menu .widget-hotel-resorts .cs-text{width:60%;}
+.mobile-menu .widget-hotel-resorts ul li{padding:20px 0 20px 0;}
+.mobile-menu .widget-categories li a{padding-left:6px !important;}
+.mobile-menu .nav-widget:after {clear: both;display: block;content: "";}
+.mobile-menu .cs-text .post-title h6 a{padding:0 !important;}
+.mobile-menu .nav-widget ul li a{padding:0 !important;}
+.mobile-menu .nav-widget ul li{border:none;}
+.widget-news-letter .cs-form .input-holder input[type="text"], .widget-news-letter .cs-form .input-holder input[type="search"] {padding: 0 130px 0 10px;}
+/*Mobile Menu*/
+#mobile-menu .widget{padding: 0 10px;}
+#mobile-menu .widget:after{ clear:both; content:''; display:block;}
+#mobile-menu .widget-hotel-resorts .cs-media, #mobile-menu .widget-destination-deals .cs-media{margin-right: 18px;}
+#mobile-menu .cs-form .input-holder input[type="submit"]{position: relative;margin-top: 10px;border-radius:5px;}
+#mobile-menu .widget.nav-widget ul {padding: 0 10px;}
+#mobile-menu .widget.nav-widget, #mobile-menu .widget-weather{border:none;}
+.nav-widget .widget-title{border:none;}
+.widget.widget-text .cs-map-section{margin: 0 -15px;}
+/* Widget Calendar */
+.widget_calendar .calendar_wrap{ position:relative;}
+.widget_calendar .calendar_wrap table caption{ border:1px solid #d2d2d2 ; border-bottom:0; padding-bottom:8px; padding-top:8px; text-align:center;}
+.widget_calendar .calendar_wrap table tfoot { position: absolute; top: 0;}
+.widget_calendar .calendar_wrap table tfoot td#prev, .widget_calendar .calendar_wrap table tfoot td#next { border: 0 none; height: 41px; text-indent: -9999px; width: 41px; padding:0; position:absolute; left:0; top:0;}
+.widget_calendar .calendar_wrap table tfoot td#next{ right:0; left:auto;}
+.widget_calendar .calendar_wrap table tfoot td#prev a{display: block; height: 41px; text-align: center; text-indent: -9999px; width: 40px; position:relative; border-right:0;}
+.widget_calendar .calendar_wrap table tfoot td#prev a:after { color: #d2d2d2;  content:'\e314'; font-family: icomoon; font-size: 24px; height: 41px;  left: 0; line-height: 40px; position: absolute; text-indent: 1px; top: 0; width: 41px;}
+.widget_calendar .calendar_wrap table tfoot td#next a{display: block; height: 41px; text-align: center; text-indent: -9999px; width: 40px; position:relative; border-left:0;}
+.widget_calendar .calendar_wrap table tfoot td#next a:after { color: #d2d2d2;  content:'\e315'; font-family: icomoon; font-size: 24px; height: 41px;  right: 0; line-height: 40px; position: absolute; text-indent: 1px; top: 0; width: 41px;}
+.widget_calendar .calendar_wrap table tfoot td.pad { border: 0 none;}
+/*====================================
+     Widget Style  End
+======================================*/

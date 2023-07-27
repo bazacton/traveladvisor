@@ -1,0 +1,1251 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CS traveladvisor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri May 20 2016 15:25:37 GMT+0500 (Pakistan Standard "
+"Time)\n"
+"POT-Revision-Date: Fri May 20 2016 15:26:03 GMT+0500 (Pakistan Standard "
+"Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "CS traveladvisor"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://themeforest.net/user/Chimpstudio"
+msgstr ""
+
+#. Description of the plugin
+msgid "CS traveladvisor."
+msgstr ""
+
+#. Author of the plugin
+msgid "ChimpStudio"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:31
+msgid "Price p. p. from"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:32
+msgid "Check Availability"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:33
+msgid "select a departure"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:34
+msgid "Adults"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:35
+msgid "Children"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:36
+msgid "Infants"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:37
+msgid "Full Name"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:38
+msgid "Email Address"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:39
+msgid "OVERVIEW"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:40
+msgid "Trip highlights"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:41
+msgid "RELATED TOURS"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:42
+msgid "Iternary"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:43
+msgid "map"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:44
+msgid "reviews"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:45
+msgid "Days"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:46 ../assets/translate/cs-strings.php:331
+msgid "Place"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:47
+msgid "Duration: "
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:48
+msgid "Amazing Gallery of Tour"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:49
+msgid "See all photos"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:50
+msgid "You May Also Check"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:51
+msgid "These are related tours for same destination."
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:52 ../assets/translate/cs-strings.php:97
+msgid "Off"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:53
+msgid "Per Person"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:54
+msgid "Gallery"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:55
+msgid "About Destination"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:56
+msgid "Points of interest"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:57
+msgid "Website: "
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:58
+msgid "From"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:59
+msgid "Most Popular Destinations"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:60 ../assets/translate/cs-strings.php:62
+msgid "Photos"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:61
+msgid "Most Papular"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:63
+msgid "TRIPS"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:64
+msgid "All"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:65
+msgid "Tour title or keywords"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:66
+msgid "Available Filters"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:67
+msgid "Destinations"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:68 ../assets/translate/cs-strings.php:74 ..
+#: /frontend/shortcodes/tours/cs-traveladvisor-searchbox.php:343
+msgid "More"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:69
+msgid "Search Tour Plan"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:70 ../assets/translate/cs-strings.php:226
+msgid "Date"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:71
+msgid "Price"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:72
+msgid "Relevance"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:73
+msgid "Sort By"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:75
+msgid "(a to z)"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:76
+msgid "(low to high)"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:77
+msgid "(high to low)"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:78
+msgid "(new to old)"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:79
+msgid "(old to new)"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:80
+msgid "Alphabets"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:81
+msgid "No tours to show"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:82
+msgid "Tour starting date"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:84
+msgid " Element Title"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:85
+msgid "Element SubTitle"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:86
+msgid "Tour Views"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:87
+msgid "Filtration"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:88
+msgid "Enter Tour Element Title"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:89
+msgid "Enter Tour SubTitle Here"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:90
+msgid "Select Tour Styles from this dropdown options"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:91
+msgid "Filtration on/off"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:92
+msgid "Yes"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:93
+msgid "No"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:94
+msgid "Sorting"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:95
+msgid "View Tour Sorting On/Off"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:96
+msgid "On"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:98
+msgid "Paging Style"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:99
+msgid "Select Paging View From This Dropdown"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:100
+msgid "All Records"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:101
+msgid "Pagination"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:102
+msgid "Post per page"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:103
+msgid ""
+"Enter Post Per Page Numeric Value, If you don not enter post per page then "
+"it will show all recodrs"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:104
+msgid "Excerpt"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:105
+msgid ""
+"Select Excerpt On/Off this option can help to increase or decrease number of "
+"text/content"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:106
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:107
+msgid "Enter Post Excerpt lenth here"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:108
+msgid "Please Select"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:109
+msgid "Tours Listing"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:110
+msgid "Clear all"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:111
+msgid "Tours Grid"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:112
+msgid "Enter Gallery Title Here"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:113
+msgid "Enter Gallery Subtitle Here"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:114
+msgid "Select Your Favourite Gallery View From This Dropdown list"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:115
+msgid "Gallery View"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:116
+msgid "Please Select View"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:117
+msgid "Default"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:118
+msgid "Famous"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:119
+msgid "Masonary"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:120
+msgid "Slider"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:121
+msgid "Unique"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:122
+msgid "Select Column"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:123
+msgid "Select Column view from this drop down"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:124
+msgid "One Column"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:125
+msgid "Two Column"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:126
+msgid "Three Column"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:127
+msgid "Four Column"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:128
+msgid "Five Column"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:129
+msgid "Choose Category"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:130
+msgid ""
+"Select category to show posts. If you dont select category it will display "
+"all posts"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:131
+msgid "Choose Gallery"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:132
+msgid ""
+"Select Gallery to show posts. If you dont select Gallery it will display all "
+"posts"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:133
+msgid "Gallery per page"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:134
+msgid "Enter number of gallery posts per page"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:135
+msgid "Enter Destination Element Title"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:136
+msgid "Enter Destination Element Sub Title"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:137
+msgid "Destination Views"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:138
+msgid "Select destination styles from this drop down"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:139
+msgid "Listing"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:140
+msgid "Grid"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:142 ../assets/translate/cs-strings.php:254 .
+#: ./assets/translate/cs-strings.php:337 ../assets/translate/cs-strings.php:357
+msgid "Description"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:143 ../assets/translate/cs-strings.php:144
+msgctxt "post type singular name"
+msgid "Destination"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:145
+msgctxt "admin menu"
+msgid "Destination"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:146
+msgctxt "add new on admin bar"
+msgid "Destination"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:147
+msgctxt "Destination"
+msgid "Add New"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:148
+msgid "Add New Destination"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:149
+msgid "New Destination"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:150
+msgid "Edit Destination"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:151
+msgid "View Destination"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:152
+msgid "All Destinations"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:153
+msgid "Search destination"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:154
+msgid "Parent Destination:"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:155
+msgid "No Destination found."
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:156
+msgid "No Destination found in Trash."
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:158
+msgid "Gallery Images"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:159
+msgid "Country/ State/ Region"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:160
+msgid "Destination Name"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:162 ../assets/translate/cs-strings.php:192 .
+#: ./assets/translate/cs-strings.php:228
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:163 ../assets/translate/cs-strings.php:193 .
+#: ./assets/translate/cs-strings.php:229
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:164 ../assets/translate/cs-strings.php:194 .
+#: ./assets/translate/cs-strings.php:230
+msgid "Search Categories"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:165 ../assets/translate/cs-strings.php:195 .
+#: ./assets/translate/cs-strings.php:231
+msgid "All Categories"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:166 ../assets/translate/cs-strings.php:196 .
+#: ./assets/translate/cs-strings.php:232
+msgid "Parent Category"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:167 ../assets/translate/cs-strings.php:197 .
+#: ./assets/translate/cs-strings.php:233
+msgid "Parent Category:"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:168 ../assets/translate/cs-strings.php:198 .
+#: ./assets/translate/cs-strings.php:234
+msgid "Edit Category"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:169 ../assets/translate/cs-strings.php:199 .
+#: ./assets/translate/cs-strings.php:235
+msgid "Update Category"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:170 ../assets/translate/cs-strings.php:200 .
+#: ./assets/translate/cs-strings.php:236
+msgid "Add New Category"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:171 ../assets/translate/cs-strings.php:201 .
+#: ./assets/translate/cs-strings.php:237
+msgid "New Category Name"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:172 ../assets/translate/cs-strings.php:202 .
+#: ./assets/translate/cs-strings.php:238
+msgid "Categories"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:174
+msgctxt "post type general name"
+msgid "Galleries"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:175
+msgctxt "post type singular name"
+msgid "Gallery"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:176
+msgctxt "admin menu"
+msgid "Galleries"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:177
+msgctxt "add new on admin bar"
+msgid "Gallery"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:178
+msgctxt "gallery"
+msgid "Add New"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:179
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:180
+msgid "New Gallery"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:181
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:182
+msgid "View Gallery"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:183
+msgid "All Galleries"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:184
+msgid "Search Galleries"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:185
+msgid "Parent Galleries:"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:186
+msgid "No galleries found."
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:187
+msgid "No galleries found in Trash."
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:189
+msgid "Category"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:190
+msgid "Gallery Name"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:204
+msgid "Insert"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:206
+msgctxt "post type general name"
+msgid "Tours"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:207
+msgctxt "post type singular name"
+msgid "Tour"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:208
+msgctxt "admin menu"
+msgid "Tours"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:209
+msgctxt "add new on admin bar"
+msgid "Tour"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:210
+msgctxt "Tour"
+msgid "Add New"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:211
+msgid "Add New Tour"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:212
+msgid "New Tour"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:213
+msgid "Edit Tour"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:214
+msgid "View Tour"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:215
+msgid "All Tours"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:216
+msgid "Search Tours"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:217
+msgid "Parent Tour:"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:218
+msgid "No Tour found."
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:219
+msgid "No Tour found in Trash."
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:221
+msgid "Tour Name"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:222
+msgid "Tour Price"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:223 ../assets/translate/cs-strings.php:335
+msgid "Duration"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:224
+msgid "Destination"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:225
+msgid "Author"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:240
+msgid "Country / State / Region"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:241
+msgid "Enter the destination country,state or region"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:242
+msgid "Most Popular Destination"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:243
+msgid "Destination Options"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:244
+msgid "Popular Destination Enable/Disable"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:245 ../assets/translate/cs-strings.php:270 .
+#: ./assets/translate/cs-strings.php:278
+msgid "Add Gallery Images"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:246
+msgid "Point of interest"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:247
+msgid "point of interest Enable/Disable"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:248
+msgid "Add Point of interest"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:249 ../assets/translate/cs-strings.php:307 .
+#: ./assets/translate/cs-strings.php:328
+msgid "Title"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:250
+msgid "Title URL"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:251
+msgid "add title url"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:252 ../assets/translate/cs-strings.php:308 .
+#: ./assets/translate/cs-strings.php:329
+msgid "Actions"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:253
+msgid "Experiences Setting"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:255 ../assets/translate/cs-strings.php:316 .
+#: ./assets/translate/cs-strings.php:339
+msgid "Add Image"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:256 ../assets/translate/cs-strings.php:264
+msgid "upload your point of interest image"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:257
+msgid "Website Url"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:258 ../assets/translate/cs-strings.php:266
+msgid "Add website url"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:259
+msgid "Point of interest Settings"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:260
+msgid "Update Title"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:261
+msgid "Edit title url"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:262
+msgid "Update Description"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:263 ../assets/translate/cs-strings.php:324 .
+#: ./assets/translate/cs-strings.php:343
+msgid "Update Image"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:265
+msgid "Update website url"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:267
+msgid "Update Experience"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:269
+msgid "Gallery Options"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:273
+msgid "Tours Options"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:274
+msgid "Custom Fields"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:275
+msgid "Select Destinations"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:276
+msgid "Select any destination for this tour"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:277
+msgid "Select gallery images for your tour"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:279
+msgid "Tour Duration"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:280
+msgid "Enter duration in time/days/months/ for your tour"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:281
+msgid "Tour Starting Date"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:282
+msgid "Enter the date here on which tour is going to start"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:283
+msgid "Organizer Email Address"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:284
+msgid ""
+"Enter Email Address of tour organizer to allow applicants to send email from "
+"detail page"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:285
+msgid "Prices"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:286
+msgid "Old Price"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:287
+msgid "Set here Old price for your tour"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:288
+msgid "New Price"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:289
+msgid "Set here new price for your tour"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:290
+msgid "Discount Percent"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:291
+msgid "Enter Discount in percentage e.g 10"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:292
+msgid "User Reviews"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:293
+msgid "Reviews Title"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:294
+msgid "Set Title For User Reviews Section"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:295
+msgid "Reviews Sub Title"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:296
+msgid "Set Sub-title For User Reviews Section"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:297
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:298
+msgid "Questionnaire Title"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:299
+msgid "Set Title For Frequently asked questions section"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:300
+msgid "Trip Highlights"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:301
+msgid "Highlights Title"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:302
+msgid "Set Title For Tour Highlights"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:303
+msgid "Schedules"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:304
+msgid "Schedule Title"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:305
+msgid "Set Title For tour schedule section"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:306
+msgid "Add User Review"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:309
+msgid "Review Setting"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:310
+msgid "Name of Person"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:311
+msgid ""
+"Add Name of Person, You received review form, through email or any other "
+"resources"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:312
+msgid "Review Title"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:313
+msgid "Add Review Title"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:314
+msgid "Review Description"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:315
+msgid "Add Review Description Here"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:317
+msgid "upload Image Of Person"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:318
+msgid "Update Name"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:319
+msgid "You can update the name through this field"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:320 ../assets/translate/cs-strings.php:321
+msgid "Edit Review Title"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:322
+msgid "Update Review Description"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:323
+msgid "You can update user review description through this field"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:325
+msgid "update image of person"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:326
+msgid "Update Review"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:327 ../assets/translate/cs-strings.php:359
+msgid "Add Schedule"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:330
+msgid "Schedule Settings"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:332
+msgid "please enter your destination or visiting place here, this will appearon map."
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:333
+msgid "Day Number"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:334
+msgid "Enter Your Schedule day number e.g Day1/Day8 max-listing=8"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:336
+msgid "You can enter duratiion in hours here"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:338
+msgid ""
+"You can enter your tour description here which will appear in Sub header of "
+"tour detail page."
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:340
+msgid "upload Image Of Place"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:341
+msgid "Day"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:342
+msgid ""
+"Please enter day number from your visiting schedule for example Day1/Day8 "
+"max-listing=8"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:344
+msgid "You can easily update scheduled image here"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:345
+msgid "Update Schedule"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:346 ../assets/translate/cs-strings.php:360
+msgid "Add Question"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:347
+msgid "Questionnaire Setting"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:348
+msgid "Question"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:349
+msgid "Enter Normally asked questions by visitors here"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:350
+msgid "Answer"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:351
+msgid "Enter answer of frequently asked question here"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:352
+msgid "Update Question"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:353
+msgid "Add Highlights"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:354
+msgid "Highlight Settings"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:355
+msgid "Highlight Title"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:356
+msgid "Enter Your Tour Hightlight Title Here"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:358
+msgid "Enter Description here"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:361
+msgid "Add Highlight"
+msgstr ""
+
+#: ../assets/translate/cs-strings.php:362
+msgid "Update Highlight"
+msgstr ""
+
+#: ../backend/custom-fields/cs-form-fields.php:1078 ../backend/custom-fields/cs-
+#: form-fields.php:1158
+msgid "Browse"
+msgstr ""
+
+#: ../backend/meta-boxes/cs-tours-meta.php:22
+msgid "Tour Options"
+msgstr ""
+
+#: ../backend/post-types/cs-destination.php:85
+msgid "------"
+msgstr ""
+
+#: ../backend/post-types/cs-tours.php:85 ../backend/post-types/cs-tours.php:100
+msgid "-----------------"
+msgstr ""
+
+#: ../backend/post-types/cs-tours.php:94
+msgid "---------------"
+msgstr ""
+
+#: ../frontend/shortcodes/tours/views/tour-grid.php:281 ../templates/single-
+#: pages/single-tours.php:1057
+msgid "%"
+msgstr ""
+
+#: ../frontend/shortcodes/tours/views/tour-list.php:417
+msgid "Price from"
+msgstr ""
+
+#: ../includes/cs-core-functions.php:76
+msgid "Previous"
+msgstr ""
+
+#: ../includes/cs-core-functions.php:77
+msgid "Next"
+msgstr ""
+
+#: ../templates/functions.php:46
+msgid "Tour Booking Order"
+msgstr ""
+
+#: ../templates/functions.php:50
+msgid "Please Select Adults."
+msgstr ""
+
+#: ../templates/functions.php:55
+msgid "Please Enter Date of Booking."
+msgstr ""
+
+#: ../templates/functions.php:60
+msgid "Please enter name."
+msgstr ""
+
+#: ../templates/functions.php:64
+msgid "Please enter email."
+msgstr ""
+
+#: ../templates/functions.php:68
+msgid "email address is not valid."
+msgstr ""
+
+#: ../templates/functions.php:84
+msgid ""
+"&nbsp; <span style=\"color: #060;\">Your inquery has been sent organizer will "
+"contact you shortly</span>"
+msgstr ""
+
+#: ../templates/functions.php:88
+msgid ""
+"&nbsp; <span style=\"color: #ff0000;\">*The mail could not be sent due to some "
+"resons, Please try again</span>"
+msgstr ""
+
+#: ../templates/single-pages/single-tours.php:580
+msgid "Send an Email"
+msgstr ""
